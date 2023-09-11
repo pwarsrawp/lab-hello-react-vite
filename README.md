@@ -143,7 +143,7 @@ Finally, let's create our landing page. Using the assets that you downloaded in 
 
   <hr>
 
-![](https://ibb.co/gRGxs8b)
+<img width="400" src="https://ibb.co/gRGxs8b">
 
 </details>
 
