@@ -88,14 +88,6 @@ Download the following images and save them in the `src/assets/` folder:
 
   <hr>
 
-<img width="50" src="https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/landing-page/ironhack-logo-xs-dark.png">
-
-```http
-https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/landing-page/ironhack-logo-xs.png
-```
-
-<br>
-
 <img width="50" src="https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/landing-page/menu-top-xs-dark.png">
 
 ```http
@@ -151,7 +143,7 @@ Finally, let's create our landing page. Using the assets that you downloaded in 
 
   <hr>
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_2c5c24ee05aa5fa68a76eee564ad44ee.png)
+![](https://ibb.co/gRGxs8b)
 
 </details>
 
